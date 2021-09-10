@@ -60,47 +60,47 @@ for (k in 1:length(kantonal_short) ) {
 
     #Intro Spezialfall Bernex
     
-    if (kantonal_short[k] == "GE_Bernex") {
+   # if (kantonal_short[k] == "GE_Bernex") {
       
-      for (s in 1:nrow(results)) {
+  #    for (s in 1:nrow(results)) {
         
-        if ( (results$Gemeinde_Nr[s] == 6607) & (results$Ja_Stimmen_Absolut[s] > results$Nein_Stimmen_Absolut[s]) ) {
+  #      if ( (results$Gemeinde_Nr[s] == 6607) & (results$Ja_Stimmen_Absolut[s] > results$Nein_Stimmen_Absolut[s]) ) {
           
-          results$Storyboard[s] <- "Intro_Ja_Bernex"
+  #        results$Storyboard[s] <- "Intro_Ja_Bernex"
           
-        }
+  #      }
         
-        if ( (results$Gemeinde_Nr[s] == 6607) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
+  #      if ( (results$Gemeinde_Nr[s] == 6607) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
           
           results$Storyboard[s] <- "Intro_Nein_Bernex"
           
-        } 
+  #      } 
         
-      }
+  #    }
     
-    }
+  #  }
     
     #Intro Spezialfall Fribourg
     
-    if (kantonal_short[k] == "FR_BlueFactory") {
+  #  if (kantonal_short[k] == "FR_BlueFactory") {
       
-      for (s in 1:nrow(results)) {
+  #    for (s in 1:nrow(results)) {
         
-        if ( (results$Gemeinde_Nr[s] == 2196) & (results$Ja_Stimmen_Absolut[s] > results$Nein_Stimmen_Absolut[s]) ) {
+  #      if ( (results$Gemeinde_Nr[s] == 2196) & (results$Ja_Stimmen_Absolut[s] > results$Nein_Stimmen_Absolut[s]) ) {
           
-          results$Storyboard[s] <- "Intro_Ja_Fribourg"
+  #        results$Storyboard[s] <- "Intro_Ja_Fribourg"
           
-        }
+  #      }
         
-        if ( (results$Gemeinde_Nr[s] == 2196) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
+  #      if ( (results$Gemeinde_Nr[s] == 2196) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
           
-          results$Storyboard[s] <- "Intro_Nein_Fribourg"
+  #        results$Storyboard[s] <- "Intro_Nein_Fribourg"
           
-        } 
+  #      } 
         
-      }
+  #    }
       
-    }
+  #  }
     
     
     #Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
@@ -112,7 +112,7 @@ for (k in 1:length(kantonal_short) ) {
     }
     
     #Textvorlagen laden
-    Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_Juni2021.xlsx", 
+    Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_September2021.xlsx", 
                                               sheet = kantonal_short[k]))
     cat("Textvorlagen geladen\n\n")
     

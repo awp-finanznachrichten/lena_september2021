@@ -10,14 +10,14 @@ for (i in 1:length(vorlagen_short)) {
   results_national <- get_results(json_data,i,level="national")
   
   ###Nationale Resultate simulieren
-  #set.seed(i)
-  #results_national$jaStimmenInProzent <- sample(0:100,1)
+  set.seed(i)
+  results_national$jaStimmenInProzent <- sample(0:100,1)
 
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
   
 #Simulation Gemeinden
-#source("data_simulation_gemeinden.R")
+source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -34,7 +34,7 @@ for (i in 1:length(vorlagen_short)) {
   results_kantone <- get_results(json_data,i,"cantonal")
   
   #Simulation Kantone
-  #source("data_simulation_kantone.R")
+  source("data_simulation_kantone.R")
   
   Ja_Stimmen_Kanton <- results_kantone %>%
     select(Kantons_Nr,jaStimmenInProzent) %>%
@@ -120,7 +120,7 @@ for (i in 1:length(vorlagen_short)) {
     ###Storybuilder
     
     #Textvorlagen laden
-    Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_Juni2021.xlsx", 
+    Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_September2021.xlsx", 
                                               sheet = vorlagen_short[i]))
     cat("Textvorlagen geladen\n\n")
     
@@ -172,25 +172,25 @@ for (i in 1:length(vorlagen_short)) {
   
   ###Output generieren für Datawrapper Zentralschweiz
   
-  output_dw_zentralschweiz <- results[results$Kanton_Short == "LU" |
-                                  results$Kanton_Short == "UR" |
-                                  results$Kanton_Short == "SZ" |
-                                  results$Kanton_Short == "OW" |
-                                  results$Kanton_Short == "NW" |
-                                  results$Kanton_Short == "ZG",]
+  #output_dw_zentralschweiz <- results[results$Kanton_Short == "LU" |
+#                                  results$Kanton_Short == "UR" |
+#                                  results$Kanton_Short == "SZ" |
+#                                  results$Kanton_Short == "OW" |
+#                                  results$Kanton_Short == "NW" |
+#                                  results$Kanton_Short == "ZG",]
   
-  output_dw_zentralschweiz <- get_output_gemeinden(output_dw_zentralschweiz)
+  #output_dw_zentralschweiz <- get_output_gemeinden(output_dw_zentralschweiz)
   
-  write.csv(output_dw_zentralschweiz,paste0("Output/",vorlagen_short[i],"_dw_zentralschweiz.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  #write.csv(output_dw_zentralschweiz,paste0("Output/",vorlagen_short[i],"_dw_zentralschweiz.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
   ###Output generieren für Datawrapper Appenzell
   
-  output_dw_appenzell <- results[results$Kanton_Short == "AI" |
-                                        results$Kanton_Short == "AR",]
+  #output_dw_appenzell <- results[results$Kanton_Short == "AI" |
+#                                        results$Kanton_Short == "AR",]
   
-  output_dw_appenzell <- get_output_gemeinden(output_dw_appenzell)
+  #output_dw_appenzell <- get_output_gemeinden(output_dw_appenzell)
   
-  write.csv(output_dw_appenzell,paste0("Output/",vorlagen_short[i],"_dw_appenzell.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  #write.csv(output_dw_appenzell,paste0("Output/",vorlagen_short[i],"_dw_appenzell.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
   
   #Log Kantone
@@ -294,12 +294,13 @@ data_overview <- data_overview[-1,]
 write.csv(data_overview,"Output/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 #Charts Uebersicht
-dw_edit_chart("mVJKQ",intro=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%H:%M Uhr")))
-dw_publish_chart("mVJKQ")
 
-dw_edit_chart("dY3Hd",intro=paste0("Dernière mise à jour: ",format(Sys.time(),"%Hh%M")))
-dw_publish_chart("dY3Hd")
+dw_edit_chart("twC56",intro=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%H:%M Uhr")))
+dw_publish_chart("twC56")
 
-dw_edit_chart("BXT64",intro=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%H:%M")))
-dw_publish_chart("BXT64")
+dw_edit_chart("Upk8A",intro=paste0("Dernière mise à jour: ",format(Sys.time(),"%Hh%M")))
+dw_publish_chart("Upk8A")
+
+dw_edit_chart("V2NId",intro=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%H:%M")))
+dw_publish_chart("V2NId")
 

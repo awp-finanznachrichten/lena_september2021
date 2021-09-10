@@ -25,10 +25,10 @@ json_data_kantone <- fromJSON(link_json_kantone, flatten = TRUE)
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
-vorlagen_short <- c("Trinkwasser","Pestizide","Covid-19","CO2","Terrorismus")
+vorlagen_short <- c("Kapital","Ehe")
 
 ###Kurznamen und Nummern kantonale Vorlagen
-kantonal_short <- c("FR_BlueFactory","SH_Nacht","GR_Wahlsystem","GR_Jagd","GE_Bernex","JU_Salariale")
+kantonal_short <- c("BE_Klima","NE_Religionen","SO_Auslaenderstimmrecht","UR_Stimmrechtsalter")
 
 #Nummer in JSON 
 kantonal_number <- c(3,7,9,9,11,12) 
@@ -58,6 +58,8 @@ cat("Metadaten zu Gemeinden und Kantonen geladen\n")
 
 #Datawrapper-Codes
 datawrapper_codes <- as.data.frame(read_excel("Data/Datawrapper_Codes.xlsx"))
+
+datawrapper_auth("BMcG33cGBCp2FpqF1BSN5lHhKrw2W8Ait4AYbDEjkjVgCiWe07iqoX5pwHXdW36g", overwrite = TRUE)
 
 
 gitcommit <- function(msg = "commit from Rstudio", dir = getwd()){
