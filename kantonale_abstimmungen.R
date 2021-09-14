@@ -8,7 +8,7 @@ for (k in 1:length(kantonal_short) ) {
   
 
   #Simulation Gemeinden
-  #source("data_simulation_gemeinden.R")
+  source("data_simulation_gemeinden.R")
   
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)
@@ -21,7 +21,7 @@ for (k in 1:length(kantonal_short) ) {
                                             "kantonal")
   
   results$Ja_Stimmen_In_Prozent_Kanton <- Ja_Stimmen_Kanton
-  #results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
+  results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
   
   #Wie viele Gemeinden sind ausgezählt?
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -72,7 +72,7 @@ for (k in 1:length(kantonal_short) ) {
         
   #      if ( (results$Gemeinde_Nr[s] == 6607) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
           
-          results$Storyboard[s] <- "Intro_Nein_Bernex"
+  #        results$Storyboard[s] <- "Intro_Nein_Bernex"
           
   #      } 
         
@@ -142,8 +142,8 @@ for (k in 1:length(kantonal_short) ) {
   }
   
   #Texte speichern
-  #library(xlsx)
-  #write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
+  library(xlsx)
+  write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   output_dw <- get_output_gemeinden(results)

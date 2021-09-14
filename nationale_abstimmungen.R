@@ -21,10 +21,10 @@ source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
-  results$gebietAusgezaehlt[155] <- TRUE
-  results$gebietAusgezaehlt[897] <- TRUE
-  results$gebietAusgezaehlt[898] <- TRUE
-  results$gebietAusgezaehlt[899] <- TRUE
+  #results$gebietAusgezaehlt[155] <- TRUE
+  #results$gebietAusgezaehlt[897] <- TRUE
+  #results$gebietAusgezaehlt[898] <- TRUE
+  #results$gebietAusgezaehlt[899] <- TRUE
   
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)

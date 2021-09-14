@@ -13,17 +13,18 @@ library(readxl)
 library(git2r)
 library(DatawRappr)
 
+
 cat("Benoetigte Bibliotheken geladen\n")
 
 #Link zu JSON-Daten / Daten einlesen
-link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json" 
+link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210926-eidgAbstimmung.json" 
 json_data <- fromJSON(link_json, flatten = TRUE)
 
-link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210613-kantAbstimmung.json"
+link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210926-kantAbstimmung.json"
 json_data_kantone <- fromJSON(link_json_kantone, flatten = TRUE)
 
 cat("Aktuelle Abstimmungsdaten geladen\n")
-
+json_data_kantone$kantone$geoLevelname
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
 vorlagen_short <- c("Kapital","Ehe")
 
@@ -31,10 +32,10 @@ vorlagen_short <- c("Kapital","Ehe")
 kantonal_short <- c("BE_Klima","NE_Religionen","SO_Auslaenderstimmrecht","UR_Stimmrechtsalter")
 
 #Nummer in JSON 
-kantonal_number <- c(3,7,9,9,11,12) 
+kantonal_number <- c(1,9,5,3) 
 
 #Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-kantonal_add <- c(1,1,1,2,1,1)
+kantonal_add <- c(1,1,2,1)
 
 ###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
 #kantonal_short_special <- c("ZH_Polizeimeldungen","BE_Handel")
