@@ -1,4 +1,4 @@
-set.seed(i)
+set.seed(k)
 
 #Daten simulieren Gemeinde!!! 
 for (a in 1:nrow(results)) {   #seq(1,nrow(results),2)
