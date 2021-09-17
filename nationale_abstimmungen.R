@@ -10,14 +10,14 @@ for (i in 1:length(vorlagen_short)) {
   results_national <- get_results(json_data,i,level="national")
   
   ###Nationale Resultate simulieren
-  set.seed(i)
-  results_national$jaStimmenInProzent <- sample(0:100,1)
+  #set.seed(i)
+  #results_national$jaStimmenInProzent <- sample(0:100,1)
 
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
   
 #Simulation Gemeinden
-source("data_simulation_gemeinden.R")
+#source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -185,12 +185,12 @@ source("data_simulation_gemeinden.R")
   
   ###Output generieren für Datawrapper Appenzell
   
-  #output_dw_appenzell <- results[results$Kanton_Short == "AI" |
-#                                        results$Kanton_Short == "AR",]
+  output_dw_appenzell <- results[results$Kanton_Short == "AI" |
+                                        results$Kanton_Short == "AR",]
   
-  #output_dw_appenzell <- get_output_gemeinden(output_dw_appenzell)
+  output_dw_appenzell <- get_output_gemeinden(output_dw_appenzell)
   
-  #write.csv(output_dw_appenzell,paste0("Output/",vorlagen_short[i],"_dw_appenzell.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_appenzell,paste0("Output/",vorlagen_short[i],"_dw_appenzell.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
   
   #Log Kantone
@@ -226,7 +226,7 @@ source("data_simulation_gemeinden.R")
                             round(results_national$jaStimmenInProzent,1)," %</b> sì, <b>",
                             round(100-results_national$jaStimmenInProzent,1)," %</b> no")
   
- 
+  }   
     #Karten Gemeinden
     dw_edit_chart(datawrapper_codes[i,2],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
     dw_publish_chart(datawrapper_codes[i,2])
@@ -247,7 +247,7 @@ source("data_simulation_gemeinden.R")
     dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_it,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M")))
     dw_publish_chart(datawrapper_codes[i,7])
     
-  }   
+
 
 #Eintrag für Uebersicht
 uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
