@@ -3,7 +3,7 @@ data_overview <- data.frame(50,50,"Abstimmung_de","Abstimmung_fr","Abstimmung_it
 colnames(data_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")
 
 for (i in 1:length(vorlagen_short)) {
-  
+
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",vorlagen$text[i],"\n"))
   
   ###Nationale Resultate aus JSON auslesen
@@ -34,7 +34,7 @@ for (i in 1:length(vorlagen_short)) {
   results_kantone <- get_results(json_data,i,"cantonal")
   
   #Simulation Kantone
-  source("data_simulation_kantone.R")
+  #source("data_simulation_kantone.R")
   
   Ja_Stimmen_Kanton <- results_kantone %>%
     select(Kantons_Nr,jaStimmenInProzent) %>%
@@ -165,6 +165,28 @@ for (i in 1:length(vorlagen_short)) {
   
   #Output Abstimmungen Gemeinde
   output_dw <- get_output_gemeinden(results)
+  
+
+  #Anpassungen (Hautemorges)
+  gemeinde_adapt <- output_dw[output_dw$Gemeinde_Nr == 5656,] 
+ 
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5421
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5625
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5478
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5494
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5644
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5500
+  output_dw <- rbind(output_dw,gemeinde_adapt)
   
   #Output speichern
   write.csv(output_dw,paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
