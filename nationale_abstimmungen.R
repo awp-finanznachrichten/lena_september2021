@@ -167,7 +167,7 @@ for (i in 1:length(vorlagen_short)) {
   output_dw <- get_output_gemeinden(results)
   
 
-  #Anpassungen (Hautemorges)
+  #Anpassungen (Hautemorges VD)
   gemeinde_adapt <- output_dw[output_dw$Gemeinde_Nr == 5656,] 
  
   gemeinde_adapt$Gemeinde_Nr[1] <- 5421
@@ -187,6 +187,23 @@ for (i in 1:length(vorlagen_short)) {
   
   gemeinde_adapt$Gemeinde_Nr[1] <- 5500
   output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  #Anpassung (Tresa TI)
+
+  gemeinde_adapt <- output_dw[output_dw$Gemeinde_Nr == 5239,] 
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5178
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5202
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5213
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
+  gemeinde_adapt$Gemeinde_Nr[1] <- 5222
+  output_dw <- rbind(output_dw,gemeinde_adapt)
+  
   
   #Output speichern
   write.csv(output_dw,paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
