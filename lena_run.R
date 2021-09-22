@@ -42,15 +42,15 @@ gitcommit()
 gitpush()
 
 #Tabellen aktualisieren
-#source("topflop.R", encoding = "UTF-8")
+source("topflop.R", encoding = "UTF-8")
 
 #Make Commit
 
-#token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
-#git2r::cred_token(token)
-#gitadd()
-#gitcommit()
-#gitpush()
+token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
+git2r::cred_token(token)
+gitadd()
+gitcommit()
+gitpush()
 
 
 cat("Daten erfolgreich auf Github hochgeladen\n")
