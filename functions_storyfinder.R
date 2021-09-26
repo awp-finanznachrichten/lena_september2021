@@ -151,7 +151,7 @@ counted <- c(1:26)[-unique(results_notavailable$Kantons_Nr)]
       kanton_data <- dta[dta$Kantons_Nr == kanton,]
       highest_gemeinde <- as.numeric(rownames(kanton_data[which.max(kanton_data$Ja_Stimmen_In_Prozent),][2]))
       lowest_gemeinde <- as.numeric(rownames(kanton_data[which.min(kanton_data$Ja_Stimmen_In_Prozent),][2]))
-      
+ 
       dta$Highest_Yes_Kant[highest_gemeinde] <- TRUE
       dta$Highest_No_Kant[lowest_gemeinde] <- TRUE
     
