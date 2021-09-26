@@ -108,11 +108,11 @@ for (i in 1:length(vorlagen_short)) {
       
       #Falls mindestens ein Kanton ausgezählt -> Stories für die Kantone finden
       
-      #if (length(unique(results_notavailable$Kantons_Nr)) < 26) {
+      if (length(unique(results_notavailable$Kantons_Nr)) < 26) {
         
-      #  results <- kanton_storyfinder(results)
+        results <- kanton_storyfinder(results)
         
-      #}
+      }
       
     #}
     

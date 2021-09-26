@@ -209,3 +209,9 @@ Schwyz, Nidwalden, Glarus, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhode
 
 2021-09-26 13:06:14 Ehe
 Schwyz, Nidwalden, Glarus, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
+
+2021-09-26 13:10:19 Kapital
+Schwyz, Nidwalden, Glarus, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
+
+2021-09-26 13:10:45 Ehe
+Schwyz, Nidwalden, Glarus, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
