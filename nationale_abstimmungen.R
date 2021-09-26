@@ -265,7 +265,7 @@ for (i in 1:length(vorlagen_short)) {
                             round(results_national$jaStimmenInProzent,1)," %</b> sì, <b>",
                             round(100-results_national$jaStimmenInProzent,1)," %</b> no")
   
-  }   
+   
     #Karten Gemeinden
     dw_edit_chart(datawrapper_codes[i,2],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
     dw_publish_chart(datawrapper_codes[i,2])
@@ -286,7 +286,7 @@ for (i in 1:length(vorlagen_short)) {
     dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_it,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M")))
     dw_publish_chart(datawrapper_codes[i,7])
     
-
+  }
 
 #Eintrag für Uebersicht
 uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
