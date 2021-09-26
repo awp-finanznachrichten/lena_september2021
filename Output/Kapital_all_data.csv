@@ -575,25 +575,25 @@
 3,1147,30.497925311,147,335,51.809720786,501,967,482,TRUE,"LU","Wikon","Wikon","Wikon","Wikon LU","Wikon (LU)","Wikon LU","Luzern","Lucerne","Lucerna",32.005962092,FALSE,FALSE
 3,1150,26.025459689,184,523,49.18699187,726,1476,707,TRUE,"LU","Zell LU","Zell (LU)","Zell LU","Zell LU","Zell (LU)","Zell LU LU","Luzern","Lucerne","Lucerna",32.005962092,FALSE,FALSE
 3,1151,28.346699568,919,2323,52.942114495,3320,6271,3242,TRUE,"LU","Willisau","Willisau","Willisau","Willisau LU","Willisau (LU)","Willisau LU","Luzern","Lucerne","Lucerna",32.005962092,FALSE,FALSE
-4,1201,,,,,,,,FALSE,"UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1202,,,,,,,,FALSE,"UR","Andermatt","Andermatt","Andermatt","Andermatt UR","Andermatt (UR)","Andermatt UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1203,,,,,,,,FALSE,"UR","Attinghausen","Attinghausen","Attinghausen","Attinghausen UR","Attinghausen (UR)","Attinghausen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1205,,,,,,,,FALSE,"UR","Bürglen UR","Bürglen (UR)","Bürglen UR","Bürglen UR","Bürglen (UR)","Bürglen UR UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1206,,,,,,,,FALSE,"UR","Erstfeld","Erstfeld","Erstfeld","Erstfeld UR","Erstfeld (UR)","Erstfeld UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1207,,,,,,,,FALSE,"UR","Flüelen","Flüelen","Flüelen","Flüelen UR","Flüelen (UR)","Flüelen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1208,,,,,,,,FALSE,"UR","Göschenen","Göschenen","Göschenen","Göschenen UR","Göschenen (UR)","Göschenen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1209,,,,,,,,FALSE,"UR","Gurtnellen","Gurtnellen","Gurtnellen","Gurtnellen UR","Gurtnellen (UR)","Gurtnellen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1210,,,,,,,,FALSE,"UR","Hospental","Hospental","Hospental","Hospental UR","Hospental (UR)","Hospental UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1211,,,,,,,,FALSE,"UR","Isenthal","Isenthal","Isenthal","Isenthal UR","Isenthal (UR)","Isenthal UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1212,,,,,,,,FALSE,"UR","Realp","Realp","Realp","Realp UR","Realp (UR)","Realp UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1213,,,,,,,,FALSE,"UR","Schattdorf","Schattdorf","Schattdorf","Schattdorf UR","Schattdorf (UR)","Schattdorf UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1214,,,,,,,,FALSE,"UR","Seedorf UR","Seedorf (UR)","Seedorf UR","Seedorf UR","Seedorf (UR)","Seedorf UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1215,,,,,,,,FALSE,"UR","Seelisberg","Seelisberg","Seelisberg","Seelisberg UR","Seelisberg (UR)","Seelisberg UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1216,,,,,,,,FALSE,"UR","Silenen","Silenen","Silenen","Silenen UR","Silenen (UR)","Silenen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1217,,,,,,,,FALSE,"UR","Sisikon","Sisikon","Sisikon","Sisikon UR","Sisikon (UR)","Sisikon UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1218,,,,,,,,FALSE,"UR","Spiringen","Spiringen","Spiringen","Spiringen UR","Spiringen (UR)","Spiringen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1219,,,,,,,,FALSE,"UR","Unterschächen","Unterschächen","Unterschächen","Unterschächen UR","Unterschächen (UR)","Unterschächen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1220,,,,,,,,FALSE,"UR","Wassen","Wassen","Wassen","Wassen UR","Wassen (UR)","Wassen UR","Uri","Uri","Uri",,FALSE,FALSE
+4,1201,37.316798196,1324,2224,53.743315508,3618,6732,3548,TRUE,"UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1202,26.813186813,122,333,48.625792812,460,946,455,TRUE,"UR","Andermatt","Andermatt","Andermatt","Andermatt UR","Andermatt (UR)","Andermatt UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1203,27.911275416,151,390,43.5877262,554,1271,541,TRUE,"UR","Attinghausen","Attinghausen","Attinghausen","Attinghausen UR","Attinghausen (UR)","Attinghausen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1205,29.590288316,390,928,45.568783069,1378,3024,1318,TRUE,"UR","Bürglen UR","Bürglen (UR)","Bürglen UR","Bürglen UR","Bürglen (UR)","Bürglen UR UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1206,34.314550042,408,781,48.499210111,1228,2532,1189,TRUE,"UR","Erstfeld","Erstfeld","Erstfeld","Erstfeld UR","Erstfeld (UR)","Erstfeld UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1207,27.989130435,206,530,52.957550452,761,1437,736,TRUE,"UR","Flüelen","Flüelen","Flüelen","Flüelen UR","Flüelen (UR)","Flüelen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1208,32.051282051,50,106,54.915254237,162,295,156,TRUE,"UR","Göschenen","Göschenen","Göschenen","Göschenen UR","Göschenen (UR)","Göschenen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1209,33.333333333,46,92,37.46898263,151,403,138,TRUE,"UR","Gurtnellen","Gurtnellen","Gurtnellen","Gurtnellen UR","Gurtnellen (UR)","Gurtnellen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1210,17.021276596,8,39,33.81294964,47,139,47,TRUE,"UR","Hospental","Hospental","Hospental","Hospental UR","Hospental (UR)","Hospental UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1211,43.356643357,62,81,40.054495913,147,367,143,TRUE,"UR","Isenthal","Isenthal","Isenthal","Isenthal UR","Isenthal (UR)","Isenthal UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1212,27.586206897,16,42,54.545454545,60,110,58,TRUE,"UR","Realp","Realp","Realp","Realp UR","Realp (UR)","Realp UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1213,28.403630539,532,1341,47.904642409,1909,3985,1873,TRUE,"UR","Schattdorf","Schattdorf","Schattdorf","Schattdorf UR","Schattdorf (UR)","Schattdorf UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1214,29.032258065,180,440,45.364472753,641,1413,620,TRUE,"UR","Seedorf UR","Seedorf (UR)","Seedorf UR","Seedorf UR","Seedorf (UR)","Seedorf UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1215,19.183673469,47,198,49.700598802,249,501,245,TRUE,"UR","Seelisberg","Seelisberg","Seelisberg","Seelisberg UR","Seelisberg (UR)","Seelisberg UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1216,32.363013699,189,395,38.745148771,599,1546,584,TRUE,"UR","Silenen","Silenen","Silenen","Silenen UR","Silenen (UR)","Silenen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1217,20.8,26,99,52.697095436,127,241,125,TRUE,"UR","Sisikon","Sisikon","Sisikon","Sisikon UR","Sisikon (UR)","Sisikon UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1218,20.532319392,54,209,40.267459138,271,673,263,TRUE,"UR","Spiringen","Spiringen","Spiringen","Spiringen UR","Spiringen (UR)","Spiringen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1219,18.695652174,43,187,43.065693431,236,548,230,TRUE,"UR","Unterschächen","Unterschächen","Unterschächen","Unterschächen UR","Unterschächen (UR)","Unterschächen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
+4,1220,22.314049587,27,94,48.42519685,123,254,121,TRUE,"UR","Wassen","Wassen","Wassen","Wassen UR","Wassen (UR)","Wassen UR","Uri","Uri","Uri",31.510561977,FALSE,FALSE
 5,1301,24.147361647,1501,4715,54.888206927,6260,11405,6216,TRUE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln SZ","Schwyz","Schwyz","Svitto",23.422951278,FALSE,FALSE
 5,1311,27.657004831,229,599,53.746770026,832,1548,828,TRUE,"SZ","Gersau","Gersau","Gersau","Gersau SZ","Gersau (SZ)","Gersau SZ","Schwyz","Schwyz","Svitto",23.422951278,FALSE,FALSE
 5,1321,14.556962025,276,1620,55.050359712,1913,3475,1896,TRUE,"SZ","Feusisberg","Feusisberg","Feusisberg","Feusisberg SZ","Feusisberg (SZ)","Feusisberg SZ","Schwyz","Schwyz","Svitto",23.422951278,FALSE,FALSE
