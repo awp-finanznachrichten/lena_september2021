@@ -60,3 +60,5 @@ time_end <- Sys.time()
 cat(time_end-time_start)
 
 #}
+
+#count_non_ehe <- output_dw[output_dw$Nein_Stimmen_In_Prozent>50,]
