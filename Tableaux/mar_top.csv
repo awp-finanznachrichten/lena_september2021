@@ -1,51 +1,51 @@
 "","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de oui","Ja in %","Percentuale di sì"
 "1","Oberems","Oberems","Oberems","VS",85.714285714,"Oberems","Oberems","Oberems","VS","VS","VS",85.714285714,85.714285714,85.714285714
-"2","Ferreyres","Ferreyres","Ferreyres","VD",81.818181818,"Ferreyres","Ferreyres","Ferreyres","VD","VD","VD",81.818181818,81.818181818,81.818181818
-"3","Lovatens","Lovatens","Lovatens","VD",81.355932203,"Lovatens","Lovatens","Lovatens","VD","VD","VD",81.355932203,81.355932203,81.355932203
-"4","Winznau","Winznau","Winznau","SO",80.688622754,"Winznau","Winznau","Winznau","SO","SO","SO",80.688622754,80.688622754,80.688622754
-"5","Ennetbaden","Ennetbaden","Ennetbaden","AG",80.636604775,"Ennetbaden","Ennetbaden","Ennetbaden","AG","AG","AG",80.636604775,80.636604775,80.636604775
-"6","Baden","Baden","Baden","AG",78.141855448,"Baden","Baden","Baden","AG","AG","AG",78.141855448,78.141855448,78.141855448
-"7","Soleure","Solothurn","Soletta","SO",77.907915994,"Soleure","Solothurn","Soletta","SO","SO","SO",77.907915994,77.907915994,77.907915994
-"8","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","GR",77.674418605,"Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","GR","GR","GR",77.674418605,77.674418605,77.674418605
-"9","La Chaux (Cossonay)","La Chaux (Cossonay)","La Chaux (Cossonay)","VD",77.564102564,"La Chaux (Cossonay)","La Chaux (Cossonay)","La Chaux (Cossonay)","VD","VD","VD",77.564102564,77.564102564,77.564102564
-"10","Liedertswil","Liedertswil","Liedertswil","BL",77.419354839,"Liedertswil","Liedertswil","Liedertswil","BL","BL","BL",77.419354839,77.419354839,77.419354839
-"11","La Rippe","La Rippe","La Rippe","VD",77.419354839,"La Rippe","La Rippe","La Rippe","VD","VD","VD",77.419354839,77.419354839,77.419354839
-"12","Chevilly","Chevilly","Chevilly","VD",76.984126984,"Chevilly","Chevilly","Chevilly","VD","VD","VD",76.984126984,76.984126984,76.984126984
-"13","Prévondavaux","Prévondavaux","Prévondavaux","FR",76.315789474,"Prévondavaux","Prévondavaux","Prévondavaux","FR","FR","FR",76.315789474,76.315789474,76.315789474
-"14","Kammersrohr","Kammersrohr","Kammersrohr","SO",76.19047619,"Kammersrohr","Kammersrohr","Kammersrohr","SO","SO","SO",76.19047619,76.19047619,76.19047619
-"15","Soubey","Soubey","Soubey","JU",76.086956522,"Soubey","Soubey","Soubey","JU","JU","JU",76.086956522,76.086956522,76.086956522
-"16","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","SO",76.041666667,"Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","SO","SO","SO",76.041666667,76.041666667,76.041666667
-"17","Olten","Olten","Olten","SO",75.865324103,"Olten","Olten","Olten","SO","SO","SO",75.865324103,75.865324103,75.865324103
-"18","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO",75.757575758,"Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO","SO","SO",75.757575758,75.757575758,75.757575758
-"19","Lucerne","Luzern","Lucerna","LU",75.660164544,"Lucerne","Luzern","Lucerna","LU","LU","LU",75.660164544,75.660164544,75.660164544
-"20","Dizy","Dizy","Dizy","VD",75.510204082,"Dizy","Dizy","Dizy","VD","VD","VD",75.510204082,75.510204082,75.510204082
-"21","Wädenswil","Wädenswil","Wädenswil","ZH",75.126903553,"Wädenswil","Wädenswil","Wädenswil","ZH","ZH","ZH",75.126903553,75.126903553,75.126903553
-"22","Bâle","Basel","Basilea","BS",75.056997797,"Bâle","Basel","Basilea","BS","BS","BS",75.056997797,75.056997797,75.056997797
-"23","Nusshof","Nusshof","Nusshof","BL",75,"Nusshof","Nusshof","Nusshof","BL","BL","BL",75,75,75
-"24","Onnens (VD)","Onnens VD","Onnens VD","VD",74.86631016,"Onnens (VD)","Onnens VD","Onnens VD","VD","VD","VD",74.86631016,74.86631016,74.86631016
-"25","Aarau","Aarau","Aarau","AG",74.785297149,"Aarau","Aarau","Aarau","AG","AG","AG",74.785297149,74.785297149,74.785297149
-"26","Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon","VD",74.698795181,"Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon","VD","VD","VD",74.698795181,74.698795181,74.698795181
-"27","Zeglingen","Zeglingen","Zeglingen","BL",74.5,"Zeglingen","Zeglingen","Zeglingen","BL","BL","BL",74.5,74.5,74.5
-"28","Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg","SO",74.336973479,"Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg","SO","SO","SO",74.336973479,74.336973479,74.336973479
-"29","Clarmont","Clarmont","Clarmont","VD",74.137931034,"Clarmont","Clarmont","Clarmont","VD","VD","VD",74.137931034,74.137931034,74.137931034
-"30","Greng","Greng","Greng","FR",73.913043478,"Greng","Greng","Greng","FR","FR","FR",73.913043478,73.913043478,73.913043478
-"31","Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD",73.604060914,"Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD","VD","VD",73.604060914,73.604060914,73.604060914
-"32","Rodersdorf","Rodersdorf","Rodersdorf","SO",73.490427099,"Rodersdorf","Rodersdorf","Rodersdorf","SO","SO","SO",73.490427099,73.490427099,73.490427099
-"33","Masein","Masein","Masein","GR",73.4375,"Masein","Masein","Masein","GR","GR","GR",73.4375,73.4375,73.4375
-"34","Oekingen","Oekingen","Oekingen","SO",73.407202216,"Oekingen","Oekingen","Oekingen","SO","SO","SO",73.407202216,73.407202216,73.407202216
-"35","Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil","SO",73.291925466,"Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil","SO","SO","SO",73.291925466,73.291925466,73.291925466
-"36","Winterthour","Winterthur","Winterthur","ZH",73.083246152,"Winterthour","Winterthur","Winterthur","ZH","ZH","ZH",73.083246152,73.083246152,73.083246152
-"37","Lausanne","Lausanne","Losanna","VD",73.07483731,"Lausanne","Lausanne","Losanna","VD","VD","VD",73.07483731,73.07483731,73.07483731
-"38","Bettens","Bettens","Bettens","VD",72.820512821,"Bettens","Bettens","Bettens","VD","VD","VD",72.820512821,72.820512821,72.820512821
-"39","Bretigny-sur-Morrens","Bretigny-sur-Morrens","Bretigny-sur-Morrens","VD",72.791519435,"Bretigny-sur-Morrens","Bretigny-sur-Morrens","Bretigny-sur-Morrens","VD","VD","VD",72.791519435,72.791519435,72.791519435
-"40","Lenzburg","Lenzburg","Lenzburg","AG",72.788024592,"Lenzburg","Lenzburg","Lenzburg","AG","AG","AG",72.788024592,72.788024592,72.788024592
-"41","Mauraz","Mauraz","Mauraz","VD",72.727272727,"Mauraz","Mauraz","Mauraz","VD","VD","VD",72.727272727,72.727272727,72.727272727
-"42","Bursins","Bursins","Bursins","VD",72.635135135,"Bursins","Bursins","Bursins","VD","VD","VD",72.635135135,72.635135135,72.635135135
-"43","Sissach","Sissach","Sissach","BL",72.603773585,"Sissach","Sissach","Sissach","BL","BL","BL",72.603773585,72.603773585,72.603773585
-"44","Cerlier","Erlach","Erlach","BE",72.580645161,"Cerlier","Erlach","Erlach","BE","BE","BE",72.580645161,72.580645161,72.580645161
-"45","Sursee","Sursee","Sursee","LU",72.573226822,"Sursee","Sursee","Sursee","LU","LU","LU",72.573226822,72.573226822,72.573226822
-"46","Schnottwil","Schnottwil","Schnottwil","SO",72.463768116,"Schnottwil","Schnottwil","Schnottwil","SO","SO","SO",72.463768116,72.463768116,72.463768116
-"47","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO",72.433192686,"Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO","SO","SO",72.433192686,72.433192686,72.433192686
-"48","Penthéréaz","Penthéréaz","Penthéréaz","VD",72.413793103,"Penthéréaz","Penthéréaz","Penthéréaz","VD","VD","VD",72.413793103,72.413793103,72.413793103
-"49","Flurlingen","Flurlingen","Flurlingen","ZH",72.398843931,"Flurlingen","Flurlingen","Flurlingen","ZH","ZH","ZH",72.398843931,72.398843931,72.398843931
-"50","Duillier","Duillier","Duillier","VD",72.378516624,"Duillier","Duillier","Duillier","VD","VD","VD",72.378516624,72.378516624,72.378516624
+"2","La Scheulte","Schelten","Schelten","BE",82.142857143,"La Scheulte","Schelten","Schelten","BE","BE","BE",82.142857143,82.142857143,82.142857143
+"3","Ferreyres","Ferreyres","Ferreyres","VD",81.818181818,"Ferreyres","Ferreyres","Ferreyres","VD","VD","VD",81.818181818,81.818181818,81.818181818
+"4","Lovatens","Lovatens","Lovatens","VD",81.355932203,"Lovatens","Lovatens","Lovatens","VD","VD","VD",81.355932203,81.355932203,81.355932203
+"5","Winznau","Winznau","Winznau","SO",80.688622754,"Winznau","Winznau","Winznau","SO","SO","SO",80.688622754,80.688622754,80.688622754
+"6","Ennetbaden","Ennetbaden","Ennetbaden","AG",80.636604775,"Ennetbaden","Ennetbaden","Ennetbaden","AG","AG","AG",80.636604775,80.636604775,80.636604775
+"7","Baden","Baden","Baden","AG",78.141855448,"Baden","Baden","Baden","AG","AG","AG",78.141855448,78.141855448,78.141855448
+"8","Soleure","Solothurn","Soletta","SO",77.907915994,"Soleure","Solothurn","Soletta","SO","SO","SO",77.907915994,77.907915994,77.907915994
+"9","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","GR",77.674418605,"Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","GR","GR","GR",77.674418605,77.674418605,77.674418605
+"10","La Chaux (Cossonay)","La Chaux (Cossonay)","La Chaux (Cossonay)","VD",77.564102564,"La Chaux (Cossonay)","La Chaux (Cossonay)","La Chaux (Cossonay)","VD","VD","VD",77.564102564,77.564102564,77.564102564
+"11","Liedertswil","Liedertswil","Liedertswil","BL",77.419354839,"Liedertswil","Liedertswil","Liedertswil","BL","BL","BL",77.419354839,77.419354839,77.419354839
+"12","La Rippe","La Rippe","La Rippe","VD",77.419354839,"La Rippe","La Rippe","La Rippe","VD","VD","VD",77.419354839,77.419354839,77.419354839
+"13","Chevilly","Chevilly","Chevilly","VD",76.984126984,"Chevilly","Chevilly","Chevilly","VD","VD","VD",76.984126984,76.984126984,76.984126984
+"14","Prévondavaux","Prévondavaux","Prévondavaux","FR",76.315789474,"Prévondavaux","Prévondavaux","Prévondavaux","FR","FR","FR",76.315789474,76.315789474,76.315789474
+"15","Kammersrohr","Kammersrohr","Kammersrohr","SO",76.19047619,"Kammersrohr","Kammersrohr","Kammersrohr","SO","SO","SO",76.19047619,76.19047619,76.19047619
+"16","Soubey","Soubey","Soubey","JU",76.086956522,"Soubey","Soubey","Soubey","JU","JU","JU",76.086956522,76.086956522,76.086956522
+"17","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","SO",76.041666667,"Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","SO","SO","SO",76.041666667,76.041666667,76.041666667
+"18","Olten","Olten","Olten","SO",75.865324103,"Olten","Olten","Olten","SO","SO","SO",75.865324103,75.865324103,75.865324103
+"19","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO",75.757575758,"Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO","SO","SO",75.757575758,75.757575758,75.757575758
+"20","Lucerne","Luzern","Lucerna","LU",75.660164544,"Lucerne","Luzern","Lucerna","LU","LU","LU",75.660164544,75.660164544,75.660164544
+"21","Dizy","Dizy","Dizy","VD",75.510204082,"Dizy","Dizy","Dizy","VD","VD","VD",75.510204082,75.510204082,75.510204082
+"22","Wädenswil","Wädenswil","Wädenswil","ZH",75.126903553,"Wädenswil","Wädenswil","Wädenswil","ZH","ZH","ZH",75.126903553,75.126903553,75.126903553
+"23","Bâle","Basel","Basilea","BS",75.056997797,"Bâle","Basel","Basilea","BS","BS","BS",75.056997797,75.056997797,75.056997797
+"24","Nusshof","Nusshof","Nusshof","BL",75,"Nusshof","Nusshof","Nusshof","BL","BL","BL",75,75,75
+"25","Onnens (VD)","Onnens VD","Onnens VD","VD",74.86631016,"Onnens (VD)","Onnens VD","Onnens VD","VD","VD","VD",74.86631016,74.86631016,74.86631016
+"26","Aarau","Aarau","Aarau","AG",74.785297149,"Aarau","Aarau","Aarau","AG","AG","AG",74.785297149,74.785297149,74.785297149
+"27","Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon","VD",74.698795181,"Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon","VD","VD","VD",74.698795181,74.698795181,74.698795181
+"28","Zeglingen","Zeglingen","Zeglingen","BL",74.5,"Zeglingen","Zeglingen","Zeglingen","BL","BL","BL",74.5,74.5,74.5
+"29","Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg","SO",74.336973479,"Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg","SO","SO","SO",74.336973479,74.336973479,74.336973479
+"30","Clarmont","Clarmont","Clarmont","VD",74.137931034,"Clarmont","Clarmont","Clarmont","VD","VD","VD",74.137931034,74.137931034,74.137931034
+"31","Greng","Greng","Greng","FR",73.913043478,"Greng","Greng","Greng","FR","FR","FR",73.913043478,73.913043478,73.913043478
+"32","Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD",73.604060914,"Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD","VD","VD",73.604060914,73.604060914,73.604060914
+"33","Rodersdorf","Rodersdorf","Rodersdorf","SO",73.490427099,"Rodersdorf","Rodersdorf","Rodersdorf","SO","SO","SO",73.490427099,73.490427099,73.490427099
+"34","Masein","Masein","Masein","GR",73.4375,"Masein","Masein","Masein","GR","GR","GR",73.4375,73.4375,73.4375
+"35","Oekingen","Oekingen","Oekingen","SO",73.407202216,"Oekingen","Oekingen","Oekingen","SO","SO","SO",73.407202216,73.407202216,73.407202216
+"36","Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil","SO",73.291925466,"Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil","SO","SO","SO",73.291925466,73.291925466,73.291925466
+"37","Winterthour","Winterthur","Winterthur","ZH",73.083246152,"Winterthour","Winterthur","Winterthur","ZH","ZH","ZH",73.083246152,73.083246152,73.083246152
+"38","Lausanne","Lausanne","Losanna","VD",73.07483731,"Lausanne","Lausanne","Losanna","VD","VD","VD",73.07483731,73.07483731,73.07483731
+"39","Bettens","Bettens","Bettens","VD",72.820512821,"Bettens","Bettens","Bettens","VD","VD","VD",72.820512821,72.820512821,72.820512821
+"40","Bretigny-sur-Morrens","Bretigny-sur-Morrens","Bretigny-sur-Morrens","VD",72.791519435,"Bretigny-sur-Morrens","Bretigny-sur-Morrens","Bretigny-sur-Morrens","VD","VD","VD",72.791519435,72.791519435,72.791519435
+"41","Lenzburg","Lenzburg","Lenzburg","AG",72.788024592,"Lenzburg","Lenzburg","Lenzburg","AG","AG","AG",72.788024592,72.788024592,72.788024592
+"42","Mauraz","Mauraz","Mauraz","VD",72.727272727,"Mauraz","Mauraz","Mauraz","VD","VD","VD",72.727272727,72.727272727,72.727272727
+"43","Bursins","Bursins","Bursins","VD",72.635135135,"Bursins","Bursins","Bursins","VD","VD","VD",72.635135135,72.635135135,72.635135135
+"44","Sissach","Sissach","Sissach","BL",72.603773585,"Sissach","Sissach","Sissach","BL","BL","BL",72.603773585,72.603773585,72.603773585
+"45","Cerlier","Erlach","Erlach","BE",72.580645161,"Cerlier","Erlach","Erlach","BE","BE","BE",72.580645161,72.580645161,72.580645161
+"46","Sursee","Sursee","Sursee","LU",72.573226822,"Sursee","Sursee","Sursee","LU","LU","LU",72.573226822,72.573226822,72.573226822
+"47","Schnottwil","Schnottwil","Schnottwil","SO",72.463768116,"Schnottwil","Schnottwil","Schnottwil","SO","SO","SO",72.463768116,72.463768116,72.463768116
+"48","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO",72.433192686,"Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO","SO","SO",72.433192686,72.433192686,72.433192686
+"49","Penthéréaz","Penthéréaz","Penthéréaz","VD",72.413793103,"Penthéréaz","Penthéréaz","Penthéréaz","VD","VD","VD",72.413793103,72.413793103,72.413793103
+"50","Flurlingen","Flurlingen","Flurlingen","ZH",72.398843931,"Flurlingen","Flurlingen","Flurlingen","ZH","ZH","ZH",72.398843931,72.398843931,72.398843931
