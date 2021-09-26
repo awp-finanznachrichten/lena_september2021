@@ -119,3 +119,9 @@ Nidwalden, Glarus,
 
 2021-09-26 12:27:15 Ehe
 Nidwalden, Glarus, 
+
+2021-09-26 12:28:31 Kapital
+Nidwalden, Glarus, 
+
+2021-09-26 12:28:54 Ehe
+Nidwalden, Glarus, 
