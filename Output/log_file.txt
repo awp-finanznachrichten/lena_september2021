@@ -293,3 +293,9 @@ Schwyz, Obwalden, Nidwalden, Glarus, Zug, Basel-Landschaft, Schaffhausen, Appenz
 
 2021-09-26 13:45:00 Ehe
 Schwyz, Obwalden, Nidwalden, Glarus, Zug, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Wallis, Neuenburg, Jura, 
+
+2021-09-26 13:46:00 Kapital
+Schwyz, Obwalden, Nidwalden, Glarus, Zug, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Thurgau, Wallis, Neuenburg, Jura, 
+
+2021-09-26 13:46:36 Ehe
+Schwyz, Obwalden, Nidwalden, Glarus, Zug, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Thurgau, Wallis, Neuenburg, Jura, 
