@@ -208,6 +208,11 @@ for (i in 1:length(vorlagen_short)) {
   #Output speichern
   write.csv(output_dw,paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
+  count_non_gemeinden <- output_dw[output_dw$Nein_Stimmen_In_Prozent>50,]
+  
+  count_yes_gemeinden <- output_dw[output_dw$Nein_Stimmen_In_Prozent<50,]
+  
+  print(paste0("Nein-Stimmen: ",nrow(count_non_gemeinden),"; Ja-Stimmen: ",nrow(count_yes_gemeinden)))
   
   ###Output generieren für Datawrapper Zentralschweiz
   
