@@ -1,51 +1,51 @@
 "","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de non","Nein in %","Percentuale di no"
 "1","Wollerau","Wollerau","Wollerau","SZ",12.784900285,"Wollerau","Wollerau","Wollerau","SZ","SZ","SZ",87.215099715,87.215099715,87.215099715
 "2","Treytorrens (Payerne)","Treytorrens (Payerne)","Treytorrens (Payerne)","VD",13.461538462,"Treytorrens (Payerne)","Treytorrens (Payerne)","Treytorrens (Payerne)","VD","VD","VD",86.538461538,86.538461538,86.538461538
-"3","Schönengrund","Schönengrund","Schönengrund","AR",13.675213675,"Schönengrund","Schönengrund","Schönengrund","AR","AR","AR",86.324786325,86.324786325,86.324786325
-"4","Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS",13.888888889,"Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS","VS","VS",86.111111111,86.111111111,86.111111111
-"5","Cama","Cama","Cama","GR",14.150943396,"Cama","Cama","Cama","GR","GR","GR",85.849056604,85.849056604,85.849056604
-"6","Furna","Furna","Furna","GR",14.285714286,"Furna","Furna","Furna","GR","GR","GR",85.714285714,85.714285714,85.714285714
-"7","Feusisberg","Feusisberg","Feusisberg","SZ",14.556962025,"Feusisberg","Feusisberg","Feusisberg","SZ","SZ","SZ",85.443037975,85.443037975,85.443037975
-"8","Bedretto","Bedretto","Bedretto","TI",14.583333333,"Bedretto","Bedretto","Bedretto","TI","TI","TI",85.416666667,85.416666667,85.416666667
-"9","Niederbüren","Niederbüren","Niederbüren","SG",14.696485623,"Niederbüren","Niederbüren","Niederbüren","SG","SG","SG",85.303514377,85.303514377,85.303514377
-"10","Dully","Dully","Dully","VD",14.932126697,"Dully","Dully","Dully","VD","VD","VD",85.067873303,85.067873303,85.067873303
-"11","Hergiswil (NW)","Hergiswil NW","Hergiswil NW","NW",15.004262575,"Hergiswil (NW)","Hergiswil NW","Hergiswil NW","NW","NW","NW",84.995737425,84.995737425,84.995737425
-"12","Zermatt","Zermatt","Zermatt","VS",15.987460815,"Zermatt","Zermatt","Zermatt","VS","VS","VS",84.012539185,84.012539185,84.012539185
-"13","Saas-Grund","Saas-Grund","Saas-Grund","VS",16,"Saas-Grund","Saas-Grund","Saas-Grund","VS","VS","VS",84,84,84
-"14","Rougemont","Rougemont","Rougemont","VD",16.346153846,"Rougemont","Rougemont","Rougemont","VD","VD","VD",83.653846154,83.653846154,83.653846154
-"15","Saas-Balen","Saas-Balen","Saas-Balen","VS",16.455696203,"Saas-Balen","Saas-Balen","Saas-Balen","VS","VS","VS",83.544303797,83.544303797,83.544303797
-"16","Ergisch","Ergisch","Ergisch","VS",16.666666667,"Ergisch","Ergisch","Ergisch","VS","VS","VS",83.333333333,83.333333333,83.333333333
-"17","Muotathal","Muotathal","Muotathal","SZ",16.797153025,"Muotathal","Muotathal","Muotathal","SZ","SZ","SZ",83.202846975,83.202846975,83.202846975
-"18","Winkel","Winkel","Winkel","ZH",16.812339332,"Winkel","Winkel","Winkel","ZH","ZH","ZH",83.187660668,83.187660668,83.187660668
-"19","Neerach","Neerach","Neerach","ZH",16.974169742,"Neerach","Neerach","Neerach","ZH","ZH","ZH",83.025830258,83.025830258,83.025830258
-"20","Alpthal","Alpthal","Alpthal","SZ",17.083333333,"Alpthal","Alpthal","Alpthal","SZ","SZ","SZ",82.916666667,82.916666667,82.916666667
-"21","Hüttikon","Hüttikon","Hüttikon","ZH",17.159763314,"Hüttikon","Hüttikon","Hüttikon","ZH","ZH","ZH",82.840236686,82.840236686,82.840236686
-"22","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","GR",17.2,"Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","GR","GR","GR",82.8,82.8,82.8
-"23","Rothenthurm","Rothenthurm","Rothenthurm","SZ",17.232704403,"Rothenthurm","Rothenthurm","Rothenthurm","SZ","SZ","SZ",82.767295597,82.767295597,82.767295597
-"24","Eich","Eich","Eich","LU",17.245989305,"Eich","Eich","Eich","LU","LU","LU",82.754010695,82.754010695,82.754010695
-"25","Villars-Epeney","Villars-Epeney","Villars-Epeney","VD",17.391304348,"Villars-Epeney","Villars-Epeney","Villars-Epeney","VD","VD","VD",82.608695652,82.608695652,82.608695652
-"26","Ennetbürgen","Ennetbürgen","Ennetbürgen","NW",17.469586375,"Ennetbürgen","Ennetbürgen","Ennetbürgen","NW","NW","NW",82.530413625,82.530413625,82.530413625
-"27","Fieschertal","Fieschertal","Fieschertal","VS",17.5,"Fieschertal","Fieschertal","Fieschertal","VS","VS","VS",82.5,82.5,82.5
-"28","Sufers","Sufers","Sufers","GR",17.543859649,"Sufers","Sufers","Sufers","GR","GR","GR",82.456140351,82.456140351,82.456140351
-"29","Schmitten (GR)","Schmitten GR","Schmitten GR","GR",17.647058824,"Schmitten (GR)","Schmitten GR","Schmitten GR","GR","GR","GR",82.352941176,82.352941176,82.352941176
-"30","Samnaun","Samnaun","Samnaun","GR",17.766497462,"Samnaun","Samnaun","Samnaun","GR","GR","GR",82.233502538,82.233502538,82.233502538
-"31","Unteriberg","Unteriberg","Unteriberg","SZ",17.780172414,"Unteriberg","Unteriberg","Unteriberg","SZ","SZ","SZ",82.219827586,82.219827586,82.219827586
-"32","Erlenbach (ZH)","Erlenbach ZH","Erlenbach ZH","ZH",17.797752809,"Erlenbach (ZH)","Erlenbach ZH","Erlenbach ZH","ZH","ZH","ZH",82.202247191,82.202247191,82.202247191
-"33","Borex","Borex","Borex","VD",17.857142857,"Borex","Borex","Borex","VD","VD","VD",82.142857143,82.142857143,82.142857143
-"34","Pontresina","Pontresina","Pontresina","GR",18.241042345,"Pontresina","Pontresina","Pontresina","GR","GR","GR",81.758957655,81.758957655,81.758957655
-"35","Jenaz","Jenaz","Jenaz","GR",18.309859155,"Jenaz","Jenaz","Jenaz","GR","GR","GR",81.690140845,81.690140845,81.690140845
-"36","Stalden (VS)","Stalden VS","Stalden VS","VS",18.403547672,"Stalden (VS)","Stalden VS","Stalden VS","VS","VS","VS",81.596452328,81.596452328,81.596452328
-"37","Waldkirch","Waldkirch","Waldkirch","SG",18.540580789,"Waldkirch","Waldkirch","Waldkirch","SG","SG","SG",81.459419211,81.459419211,81.459419211
-"38","Holziken","Holziken","Holziken","AG",18.6,"Holziken","Holziken","Holziken","AG","AG","AG",81.4,81.4,81.4
-"39","Doppleschwand","Doppleschwand","Doppleschwand","LU",18.618618619,"Doppleschwand","Doppleschwand","Doppleschwand","LU","LU","LU",81.381381381,81.381381381,81.381381381
-"40","Aesch (LU)","Aesch LU","Aesch LU","LU",18.644067797,"Aesch (LU)","Aesch LU","Aesch LU","LU","LU","LU",81.355932203,81.355932203,81.355932203
-"41","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","GR",18.652849741,"Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","GR","GR","GR",81.347150259,81.347150259,81.347150259
-"42","Tannay","Tannay","Tannay","VD",18.700787402,"Tannay","Tannay","Tannay","VD","VD","VD",81.299212598,81.299212598,81.299212598
-"43","Emmetten","Emmetten","Emmetten","NW",18.72659176,"Emmetten","Emmetten","Emmetten","NW","NW","NW",81.27340824,81.27340824,81.27340824
-"44","Oetwil an der Limmat","Oetwil an der Limmat","Oetwil an der Limmat","ZH",18.756476684,"Oetwil an der Limmat","Oetwil an der Limmat","Oetwil an der Limmat","ZH","ZH","ZH",81.243523316,81.243523316,81.243523316
-"45","Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden","GR",18.811881188,"Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden","GR","GR","GR",81.188118812,81.188118812,81.188118812
-"46","Eischoll","Eischoll","Eischoll","VS",18.848167539,"Eischoll","Eischoll","Eischoll","VS","VS","VS",81.151832461,81.151832461,81.151832461
-"47","Aesch (ZH)","Aesch ZH","Aesch ZH","ZH",18.865030675,"Aesch (ZH)","Aesch ZH","Aesch ZH","ZH","ZH","ZH",81.134969325,81.134969325,81.134969325
-"48","Féchy","Féchy","Féchy","VD",18.874172185,"Féchy","Féchy","Féchy","VD","VD","VD",81.125827815,81.125827815,81.125827815
-"49","Vufflens-le-Château","Vufflens-le-Château","Vufflens-le-Château","VD",18.956043956,"Vufflens-le-Château","Vufflens-le-Château","Vufflens-le-Château","VD","VD","VD",81.043956044,81.043956044,81.043956044
-"50","Tschappina","Tschappina","Tschappina","GR",19.047619048,"Tschappina","Tschappina","Tschappina","GR","GR","GR",80.952380952,80.952380952,80.952380952
+"3","Greng","Greng","Greng","FR",13.541666667,"Greng","Greng","Greng","FR","FR","FR",86.458333333,86.458333333,86.458333333
+"4","Schönengrund","Schönengrund","Schönengrund","AR",13.675213675,"Schönengrund","Schönengrund","Schönengrund","AR","AR","AR",86.324786325,86.324786325,86.324786325
+"5","Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS",13.888888889,"Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS","VS","VS",86.111111111,86.111111111,86.111111111
+"6","Cama","Cama","Cama","GR",14.150943396,"Cama","Cama","Cama","GR","GR","GR",85.849056604,85.849056604,85.849056604
+"7","Furna","Furna","Furna","GR",14.285714286,"Furna","Furna","Furna","GR","GR","GR",85.714285714,85.714285714,85.714285714
+"8","Feusisberg","Feusisberg","Feusisberg","SZ",14.556962025,"Feusisberg","Feusisberg","Feusisberg","SZ","SZ","SZ",85.443037975,85.443037975,85.443037975
+"9","Bedretto","Bedretto","Bedretto","TI",14.583333333,"Bedretto","Bedretto","Bedretto","TI","TI","TI",85.416666667,85.416666667,85.416666667
+"10","Niederbüren","Niederbüren","Niederbüren","SG",14.696485623,"Niederbüren","Niederbüren","Niederbüren","SG","SG","SG",85.303514377,85.303514377,85.303514377
+"11","Dully","Dully","Dully","VD",14.932126697,"Dully","Dully","Dully","VD","VD","VD",85.067873303,85.067873303,85.067873303
+"12","Hergiswil (NW)","Hergiswil NW","Hergiswil NW","NW",15.004262575,"Hergiswil (NW)","Hergiswil NW","Hergiswil NW","NW","NW","NW",84.995737425,84.995737425,84.995737425
+"13","Zermatt","Zermatt","Zermatt","VS",15.987460815,"Zermatt","Zermatt","Zermatt","VS","VS","VS",84.012539185,84.012539185,84.012539185
+"14","Saas-Grund","Saas-Grund","Saas-Grund","VS",16,"Saas-Grund","Saas-Grund","Saas-Grund","VS","VS","VS",84,84,84
+"15","Rougemont","Rougemont","Rougemont","VD",16.346153846,"Rougemont","Rougemont","Rougemont","VD","VD","VD",83.653846154,83.653846154,83.653846154
+"16","Saas-Balen","Saas-Balen","Saas-Balen","VS",16.455696203,"Saas-Balen","Saas-Balen","Saas-Balen","VS","VS","VS",83.544303797,83.544303797,83.544303797
+"17","Ergisch","Ergisch","Ergisch","VS",16.666666667,"Ergisch","Ergisch","Ergisch","VS","VS","VS",83.333333333,83.333333333,83.333333333
+"18","Flühli","Flühli","Flühli","LU",16.765578635,"Flühli","Flühli","Flühli","LU","LU","LU",83.234421365,83.234421365,83.234421365
+"19","Muotathal","Muotathal","Muotathal","SZ",16.797153025,"Muotathal","Muotathal","Muotathal","SZ","SZ","SZ",83.202846975,83.202846975,83.202846975
+"20","Winkel","Winkel","Winkel","ZH",16.812339332,"Winkel","Winkel","Winkel","ZH","ZH","ZH",83.187660668,83.187660668,83.187660668
+"21","Neerach","Neerach","Neerach","ZH",16.974169742,"Neerach","Neerach","Neerach","ZH","ZH","ZH",83.025830258,83.025830258,83.025830258
+"22","Alpthal","Alpthal","Alpthal","SZ",17.083333333,"Alpthal","Alpthal","Alpthal","SZ","SZ","SZ",82.916666667,82.916666667,82.916666667
+"23","Hüttikon","Hüttikon","Hüttikon","ZH",17.159763314,"Hüttikon","Hüttikon","Hüttikon","ZH","ZH","ZH",82.840236686,82.840236686,82.840236686
+"24","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","GR",17.2,"Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","GR","GR","GR",82.8,82.8,82.8
+"25","Rothenthurm","Rothenthurm","Rothenthurm","SZ",17.232704403,"Rothenthurm","Rothenthurm","Rothenthurm","SZ","SZ","SZ",82.767295597,82.767295597,82.767295597
+"26","Eich","Eich","Eich","LU",17.245989305,"Eich","Eich","Eich","LU","LU","LU",82.754010695,82.754010695,82.754010695
+"27","Villars-Epeney","Villars-Epeney","Villars-Epeney","VD",17.391304348,"Villars-Epeney","Villars-Epeney","Villars-Epeney","VD","VD","VD",82.608695652,82.608695652,82.608695652
+"28","Ennetbürgen","Ennetbürgen","Ennetbürgen","NW",17.469586375,"Ennetbürgen","Ennetbürgen","Ennetbürgen","NW","NW","NW",82.530413625,82.530413625,82.530413625
+"29","Fieschertal","Fieschertal","Fieschertal","VS",17.5,"Fieschertal","Fieschertal","Fieschertal","VS","VS","VS",82.5,82.5,82.5
+"30","Sufers","Sufers","Sufers","GR",17.543859649,"Sufers","Sufers","Sufers","GR","GR","GR",82.456140351,82.456140351,82.456140351
+"31","Schmitten (GR)","Schmitten GR","Schmitten GR","GR",17.647058824,"Schmitten (GR)","Schmitten GR","Schmitten GR","GR","GR","GR",82.352941176,82.352941176,82.352941176
+"32","Samnaun","Samnaun","Samnaun","GR",17.766497462,"Samnaun","Samnaun","Samnaun","GR","GR","GR",82.233502538,82.233502538,82.233502538
+"33","Unteriberg","Unteriberg","Unteriberg","SZ",17.780172414,"Unteriberg","Unteriberg","Unteriberg","SZ","SZ","SZ",82.219827586,82.219827586,82.219827586
+"34","Erlenbach (ZH)","Erlenbach ZH","Erlenbach ZH","ZH",17.797752809,"Erlenbach (ZH)","Erlenbach ZH","Erlenbach ZH","ZH","ZH","ZH",82.202247191,82.202247191,82.202247191
+"35","Borex","Borex","Borex","VD",17.857142857,"Borex","Borex","Borex","VD","VD","VD",82.142857143,82.142857143,82.142857143
+"36","Pontresina","Pontresina","Pontresina","GR",18.241042345,"Pontresina","Pontresina","Pontresina","GR","GR","GR",81.758957655,81.758957655,81.758957655
+"37","Jenaz","Jenaz","Jenaz","GR",18.309859155,"Jenaz","Jenaz","Jenaz","GR","GR","GR",81.690140845,81.690140845,81.690140845
+"38","Stalden (VS)","Stalden VS","Stalden VS","VS",18.403547672,"Stalden (VS)","Stalden VS","Stalden VS","VS","VS","VS",81.596452328,81.596452328,81.596452328
+"39","Waldkirch","Waldkirch","Waldkirch","SG",18.540580789,"Waldkirch","Waldkirch","Waldkirch","SG","SG","SG",81.459419211,81.459419211,81.459419211
+"40","Holziken","Holziken","Holziken","AG",18.6,"Holziken","Holziken","Holziken","AG","AG","AG",81.4,81.4,81.4
+"41","Doppleschwand","Doppleschwand","Doppleschwand","LU",18.618618619,"Doppleschwand","Doppleschwand","Doppleschwand","LU","LU","LU",81.381381381,81.381381381,81.381381381
+"42","Aesch (LU)","Aesch LU","Aesch LU","LU",18.644067797,"Aesch (LU)","Aesch LU","Aesch LU","LU","LU","LU",81.355932203,81.355932203,81.355932203
+"43","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","GR",18.652849741,"Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","GR","GR","GR",81.347150259,81.347150259,81.347150259
+"44","Tannay","Tannay","Tannay","VD",18.700787402,"Tannay","Tannay","Tannay","VD","VD","VD",81.299212598,81.299212598,81.299212598
+"45","Emmetten","Emmetten","Emmetten","NW",18.72659176,"Emmetten","Emmetten","Emmetten","NW","NW","NW",81.27340824,81.27340824,81.27340824
+"46","Oetwil an der Limmat","Oetwil an der Limmat","Oetwil an der Limmat","ZH",18.756476684,"Oetwil an der Limmat","Oetwil an der Limmat","Oetwil an der Limmat","ZH","ZH","ZH",81.243523316,81.243523316,81.243523316
+"47","Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden","GR",18.811881188,"Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden","GR","GR","GR",81.188118812,81.188118812,81.188118812
+"48","Eischoll","Eischoll","Eischoll","VS",18.848167539,"Eischoll","Eischoll","Eischoll","VS","VS","VS",81.151832461,81.151832461,81.151832461
+"49","Aesch (ZH)","Aesch ZH","Aesch ZH","ZH",18.865030675,"Aesch (ZH)","Aesch ZH","Aesch ZH","ZH","ZH","ZH",81.134969325,81.134969325,81.134969325
+"50","Féchy","Féchy","Féchy","VD",18.874172185,"Féchy","Féchy","Féchy","VD","VD","VD",81.125827815,81.125827815,81.125827815
