@@ -179,3 +179,9 @@ Nidwalden, Glarus, Appenzell Ausserrhoden, Graubünden,
 
 2021-09-26 12:52:01 Ehe
 Nidwalden, Glarus, Appenzell Ausserrhoden, Graubünden, 
+
+2021-09-26 12:53:47 Kapital
+Nidwalden, Glarus, Appenzell Ausserrhoden, Graubünden, 
+
+2021-09-26 12:54:19 Ehe
+Nidwalden, Glarus, Appenzell Ausserrhoden, Graubünden, 
