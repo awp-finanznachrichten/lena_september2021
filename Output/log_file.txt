@@ -191,3 +191,9 @@ Nidwalden, Glarus, Schaffhausen, Appenzell Ausserrhoden, Graubünden,
 
 2021-09-26 12:55:51 Ehe
 Nidwalden, Glarus, Schaffhausen, Appenzell Ausserrhoden, Graubünden, 
+
+2021-09-26 12:57:09 Kapital
+Nidwalden, Glarus, Schaffhausen, Appenzell Ausserrhoden, Graubünden, 
+
+2021-09-26 12:57:41 Ehe
+Nidwalden, Glarus, Schaffhausen, Appenzell Ausserrhoden, Graubünden, 
