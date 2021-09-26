@@ -17,35 +17,35 @@
 "16","Illgau","Illgau","Illgau","SZ",40.307692308,"Illgau","Illgau","Illgau","SZ","SZ","SZ",59.692307692,59.692307692,59.692307692
 "17","Sembrancher","Sembrancher","Sembrancher","VS",40.691489362,"Sembrancher","Sembrancher","Sembrancher","VS","VS","VS",59.308510638,59.308510638,59.308510638
 "18","Luthern","Luthern","Luthern","LU",40.975609756,"Luthern","Luthern","Luthern","LU","LU","LU",59.024390244,59.024390244,59.024390244
-"19","Daillens","Daillens","Daillens","VD",41.26984127,"Daillens","Daillens","Daillens","VD","VD","VD",58.73015873,58.73015873,58.73015873
-"20","Reitnau","Reitnau","Reitnau","AG",41.324921136,"Reitnau","Reitnau","Reitnau","AG","AG","AG",58.675078864,58.675078864,58.675078864
-"21","Poschiavo","Poschiavo","Poschiavo","GR",41.866028708,"Poschiavo","Poschiavo","Poschiavo","GR","GR","GR",58.133971292,58.133971292,58.133971292
-"22","Orsières","Orsières","Orsières","VS",41.869599372,"Orsières","Orsières","Orsières","VS","VS","VS",58.130400628,58.130400628,58.130400628
-"23","Val-d'Illiez","Val-d'Illiez","Val-d'Illiez","VS",42.323651452,"Val-d'Illiez","Val-d'Illiez","Val-d'Illiez","VS","VS","VS",57.676348548,57.676348548,57.676348548
-"24","Luzein","Luzein","Luzein","GR",42.62295082,"Luzein","Luzein","Luzein","GR","GR","GR",57.37704918,57.37704918,57.37704918
-"25","Wiler (Lötschen)","Wiler (Lötschen)","Wiler (Lötschen)","VS",42.62295082,"Wiler (Lötschen)","Wiler (Lötschen)","Wiler (Lötschen)","VS","VS","VS",57.37704918,57.37704918,57.37704918
-"26","Wiliberg","Wiliberg","Wiliberg","AG",43.010752688,"Wiliberg","Wiliberg","Wiliberg","AG","AG","AG",56.989247312,56.989247312,56.989247312
-"27","Dürrenäsch","Dürrenäsch","Dürrenäsch","AG",43.014705882,"Dürrenäsch","Dürrenäsch","Dürrenäsch","AG","AG","AG",56.985294118,56.985294118,56.985294118
-"28","Brusio","Brusio","Brusio","GR",43.072289157,"Brusio","Brusio","Brusio","GR","GR","GR",56.927710843,56.927710843,56.927710843
-"29","Rothenthurm","Rothenthurm","Rothenthurm","SZ",43.137254902,"Rothenthurm","Rothenthurm","Rothenthurm","SZ","SZ","SZ",56.862745098,56.862745098,56.862745098
-"30","Urmein","Urmein","Urmein","GR",43.421052632,"Urmein","Urmein","Urmein","GR","GR","GR",56.578947368,56.578947368,56.578947368
-"31","Chavannes-sur-Moudon","Chavannes-sur-Moudon","Chavannes-sur-Moudon","VD",43.67816092,"Chavannes-sur-Moudon","Chavannes-sur-Moudon","Chavannes-sur-Moudon","VD","VD","VD",56.32183908,56.32183908,56.32183908
-"32","Blatten","Blatten","Blatten","VS",43.75,"Blatten","Blatten","Blatten","VS","VS","VS",56.25,56.25,56.25
-"33","Leutwil","Leutwil","Leutwil","AG",44.012944984,"Leutwil","Leutwil","Leutwil","AG","AG","AG",55.987055016,55.987055016,55.987055016
-"34","Gontenschwil","Gontenschwil","Gontenschwil","AG",44.042838019,"Gontenschwil","Gontenschwil","Gontenschwil","AG","AG","AG",55.957161981,55.957161981,55.957161981
-"35","Lütisburg","Lütisburg","Lütisburg","SG",44.054580897,"Lütisburg","Lütisburg","Lütisburg","SG","SG","SG",55.945419103,55.945419103,55.945419103
-"36","Niederbüren","Niederbüren","Niederbüren","SG",44.338118022,"Niederbüren","Niederbüren","Niederbüren","SG","SG","SG",55.661881978,55.661881978,55.661881978
-"37","L'Abbaye","L'Abbaye","L'Abbaye","VD",44.833625219,"L'Abbaye","L'Abbaye","L'Abbaye","VD","VD","VD",55.166374781,55.166374781,55.166374781
-"38","Lauerz","Lauerz","Lauerz","SZ",45.064377682,"Lauerz","Lauerz","Lauerz","SZ","SZ","SZ",54.935622318,54.935622318,54.935622318
-"39","Zetzwil","Zetzwil","Zetzwil","AG",45.176848875,"Zetzwil","Zetzwil","Zetzwil","AG","AG","AG",54.823151125,54.823151125,54.823151125
-"40","Escholzmatt-Marbach","Escholzmatt-Marbach","Escholzmatt-Marbach","LU",45.195288283,"Escholzmatt-Marbach","Escholzmatt-Marbach","Escholzmatt-Marbach","LU","LU","LU",54.804711717,54.804711717,54.804711717
-"41","Vorderthal","Vorderthal","Vorderthal","SZ",45.259938838,"Vorderthal","Vorderthal","Vorderthal","SZ","SZ","SZ",54.740061162,54.740061162,54.740061162
-"42","Provence","Provence","Provence","VD",45.27027027,"Provence","Provence","Provence","VD","VD","VD",54.72972973,54.72972973,54.72972973
-"43","Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS",45.363408521,"Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS","VS","VS",54.636591479,54.636591479,54.636591479
-"44","Schmitten (GR)","Schmitten GR","Schmitten GR","GR",45.555555556,"Schmitten (GR)","Schmitten GR","Schmitten GR","GR","GR","GR",54.444444444,54.444444444,54.444444444
-"45","Ergisch","Ergisch","Ergisch","VS",45.614035088,"Ergisch","Ergisch","Ergisch","VS","VS","VS",54.385964912,54.385964912,54.385964912
-"46","Eggerberg","Eggerberg","Eggerberg","VS",45.762711864,"Eggerberg","Eggerberg","Eggerberg","VS","VS","VS",54.237288136,54.237288136,54.237288136
-"47","Schlossrued","Schlossrued","Schlossrued","AG",46.056782334,"Schlossrued","Schlossrued","Schlossrued","AG","AG","AG",53.943217666,53.943217666,53.943217666
-"48","Rossinière","Rossinière","Rossinière","VD",46.486486486,"Rossinière","Rossinière","Rossinière","VD","VD","VD",53.513513514,53.513513514,53.513513514
-"49","Kippel","Kippel","Kippel","VS",46.700507614,"Kippel","Kippel","Kippel","VS","VS","VS",53.299492386,53.299492386,53.299492386
-"50","Leytron","Leytron","Leytron","VS",46.794871795,"Leytron","Leytron","Leytron","VS","VS","VS",53.205128205,53.205128205,53.205128205
+"19","Reitnau","Reitnau","Reitnau","AG",41.324921136,"Reitnau","Reitnau","Reitnau","AG","AG","AG",58.675078864,58.675078864,58.675078864
+"20","Poschiavo","Poschiavo","Poschiavo","GR",41.866028708,"Poschiavo","Poschiavo","Poschiavo","GR","GR","GR",58.133971292,58.133971292,58.133971292
+"21","Orsières","Orsières","Orsières","VS",41.869599372,"Orsières","Orsières","Orsières","VS","VS","VS",58.130400628,58.130400628,58.130400628
+"22","Val-d'Illiez","Val-d'Illiez","Val-d'Illiez","VS",42.323651452,"Val-d'Illiez","Val-d'Illiez","Val-d'Illiez","VS","VS","VS",57.676348548,57.676348548,57.676348548
+"23","Luzein","Luzein","Luzein","GR",42.62295082,"Luzein","Luzein","Luzein","GR","GR","GR",57.37704918,57.37704918,57.37704918
+"24","Wiler (Lötschen)","Wiler (Lötschen)","Wiler (Lötschen)","VS",42.62295082,"Wiler (Lötschen)","Wiler (Lötschen)","Wiler (Lötschen)","VS","VS","VS",57.37704918,57.37704918,57.37704918
+"25","Wiliberg","Wiliberg","Wiliberg","AG",43.010752688,"Wiliberg","Wiliberg","Wiliberg","AG","AG","AG",56.989247312,56.989247312,56.989247312
+"26","Dürrenäsch","Dürrenäsch","Dürrenäsch","AG",43.014705882,"Dürrenäsch","Dürrenäsch","Dürrenäsch","AG","AG","AG",56.985294118,56.985294118,56.985294118
+"27","Brusio","Brusio","Brusio","GR",43.072289157,"Brusio","Brusio","Brusio","GR","GR","GR",56.927710843,56.927710843,56.927710843
+"28","Rothenthurm","Rothenthurm","Rothenthurm","SZ",43.137254902,"Rothenthurm","Rothenthurm","Rothenthurm","SZ","SZ","SZ",56.862745098,56.862745098,56.862745098
+"29","Urmein","Urmein","Urmein","GR",43.421052632,"Urmein","Urmein","Urmein","GR","GR","GR",56.578947368,56.578947368,56.578947368
+"30","Chavannes-sur-Moudon","Chavannes-sur-Moudon","Chavannes-sur-Moudon","VD",43.67816092,"Chavannes-sur-Moudon","Chavannes-sur-Moudon","Chavannes-sur-Moudon","VD","VD","VD",56.32183908,56.32183908,56.32183908
+"31","Blatten","Blatten","Blatten","VS",43.75,"Blatten","Blatten","Blatten","VS","VS","VS",56.25,56.25,56.25
+"32","Leutwil","Leutwil","Leutwil","AG",44.012944984,"Leutwil","Leutwil","Leutwil","AG","AG","AG",55.987055016,55.987055016,55.987055016
+"33","Gontenschwil","Gontenschwil","Gontenschwil","AG",44.042838019,"Gontenschwil","Gontenschwil","Gontenschwil","AG","AG","AG",55.957161981,55.957161981,55.957161981
+"34","Lütisburg","Lütisburg","Lütisburg","SG",44.054580897,"Lütisburg","Lütisburg","Lütisburg","SG","SG","SG",55.945419103,55.945419103,55.945419103
+"35","Niederbüren","Niederbüren","Niederbüren","SG",44.338118022,"Niederbüren","Niederbüren","Niederbüren","SG","SG","SG",55.661881978,55.661881978,55.661881978
+"36","L'Abbaye","L'Abbaye","L'Abbaye","VD",44.833625219,"L'Abbaye","L'Abbaye","L'Abbaye","VD","VD","VD",55.166374781,55.166374781,55.166374781
+"37","Lauerz","Lauerz","Lauerz","SZ",45.064377682,"Lauerz","Lauerz","Lauerz","SZ","SZ","SZ",54.935622318,54.935622318,54.935622318
+"38","Zetzwil","Zetzwil","Zetzwil","AG",45.176848875,"Zetzwil","Zetzwil","Zetzwil","AG","AG","AG",54.823151125,54.823151125,54.823151125
+"39","Escholzmatt-Marbach","Escholzmatt-Marbach","Escholzmatt-Marbach","LU",45.195288283,"Escholzmatt-Marbach","Escholzmatt-Marbach","Escholzmatt-Marbach","LU","LU","LU",54.804711717,54.804711717,54.804711717
+"40","Vorderthal","Vorderthal","Vorderthal","SZ",45.259938838,"Vorderthal","Vorderthal","Vorderthal","SZ","SZ","SZ",54.740061162,54.740061162,54.740061162
+"41","Provence","Provence","Provence","VD",45.27027027,"Provence","Provence","Provence","VD","VD","VD",54.72972973,54.72972973,54.72972973
+"42","Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS",45.363408521,"Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS","VS","VS",54.636591479,54.636591479,54.636591479
+"43","Schmitten (GR)","Schmitten GR","Schmitten GR","GR",45.555555556,"Schmitten (GR)","Schmitten GR","Schmitten GR","GR","GR","GR",54.444444444,54.444444444,54.444444444
+"44","Ergisch","Ergisch","Ergisch","VS",45.614035088,"Ergisch","Ergisch","Ergisch","VS","VS","VS",54.385964912,54.385964912,54.385964912
+"45","Eggerberg","Eggerberg","Eggerberg","VS",45.762711864,"Eggerberg","Eggerberg","Eggerberg","VS","VS","VS",54.237288136,54.237288136,54.237288136
+"46","Schlossrued","Schlossrued","Schlossrued","AG",46.056782334,"Schlossrued","Schlossrued","Schlossrued","AG","AG","AG",53.943217666,53.943217666,53.943217666
+"47","Rossinière","Rossinière","Rossinière","VD",46.486486486,"Rossinière","Rossinière","Rossinière","VD","VD","VD",53.513513514,53.513513514,53.513513514
+"48","Kippel","Kippel","Kippel","VS",46.700507614,"Kippel","Kippel","Kippel","VS","VS","VS",53.299492386,53.299492386,53.299492386
+"49","Leytron","Leytron","Leytron","VS",46.794871795,"Leytron","Leytron","Leytron","VS","VS","VS",53.205128205,53.205128205,53.205128205
+"50","Lignerolle","Lignerolle","Lignerolle","VD",46.808510638,"Lignerolle","Lignerolle","Lignerolle","VD","VD","VD",53.191489362,53.191489362,53.191489362
