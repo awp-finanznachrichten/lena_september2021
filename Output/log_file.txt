@@ -455,3 +455,9 @@ Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Basel-St
 
 2021-09-26 14:57:06 Ehe
 Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Waadt, Wallis, Neuenburg, Genf, Jura, 
+
+2021-09-26 14:59:13 Kapital
+Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Waadt, Wallis, Neuenburg, Genf, Jura, 
+
+2021-09-26 14:59:50 Ehe
+Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Waadt, Wallis, Neuenburg, Genf, Jura, 
